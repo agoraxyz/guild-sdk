@@ -41,7 +41,7 @@
     },
     "dependencies": {
         "axios": "^0.26.1",
-        "ethers": "^5.5.4",
+        "ethers": "^5.6.1",
         "fast-json-stable-stringify": "^2.1.0"
     },
     "devDependencies": {
